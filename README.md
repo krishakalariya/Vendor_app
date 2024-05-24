@@ -4,7 +4,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/vendor-management-system.git
+   git clone https://github.com/krishakalariya/Vendor_app.git
    cd vendor-management-system
 2. **Create a virtual environment**
 
