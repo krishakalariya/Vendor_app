@@ -1,6 +1,4 @@
 # Vendor_app
-## Setup and Installation
-### Environment Setup
 1. **Clone the repository:**
 
    ```bash
